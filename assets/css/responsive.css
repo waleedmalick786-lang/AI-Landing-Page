@@ -1,0 +1,684 @@
+@media screen and (max-width: 1140px) {
+  header {
+    display: none;
+  }
+  .companies {
+    padding-block: 100px 130px;
+  }
+  .companies .companies-list {
+    flex-wrap: wrap;
+    margin-inline: 0;
+    gap: 40px;
+  }
+  .company-image {
+    max-width: 160px;
+  }
+  .about-us .about-info {
+    gap: 50px;
+  }
+  .about-image {
+    max-width: 600px;
+  }
+  .about-info h3 {
+    font-size: 36px;
+    line-height: 42px;
+    max-width: 400px;
+  }
+  .play {
+    width: 120px;
+    height: 120px;
+  }
+  .play .fa-play {
+    font-size: 44px;
+  }
+  .features {
+    padding-block: 140px 120px;
+  }
+  .feature-card {
+    padding: 32px 24px;
+    gap: 26px;
+    max-width: 340px;
+  }
+  .feature-card .feature-image {
+    max-width: 42px;
+    font-size: 0;
+  }
+}
+
+/* --------------------------------------------------------------- */
+@media screen and (max-width: 991px) {
+  header {
+    display: none;
+  }
+  .banner {
+    padding-block: 200px 140px;
+  }
+  .banner-text h1 {
+    font-size: 52px;
+    line-height: 58px;
+    max-width: 534px;
+    margin: 0 auto 29px;
+  }
+  .companies {
+    padding-block: 100px 130px;
+  }
+  .companies .companies-list {
+    flex-wrap: wrap;
+    margin-inline: 0;
+    gap: 40px;
+  }
+  .company-image {
+    max-width: 160px;
+  }
+  .about-us .about-info {
+    gap: 50px;
+  }
+  .about-us h2 {
+    font-size: 42px;
+    line-height: 48px;
+  }
+  .about-info h3 {
+    font-size: 34px;
+    line-height: 40px;
+    max-width: 367px;
+  }
+  .about-info p {
+    font-size: 14px;
+    line-height: 20px;
+    max-width: 311px;
+  }
+  .about-image {
+    max-width: 550px;
+  }
+  .about-image span {
+    font-size: 84px;
+    line-height: 90px;
+  }
+  .play {
+    width: 110px;
+    height: 110px;
+  }
+  .play .fa-play {
+    font-size: 40px;
+  }
+  .features {
+    padding-block: 132px 110px;
+  }
+  .features h2 {
+    font-size: 42px;
+    margin-bottom: 80px;
+    line-height: 48px;
+  }
+  .feature-card {
+    padding: 30px 24px;
+    gap: 26px;
+  }
+  .feature-card .feature-image {
+    max-width: 40px;
+  }
+  .feature-content h3 {
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .feature-content p {
+    margin-bottom: 21px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .sign-up {
+    padding-block: 120px 100px;
+    gap: 300px;
+  }
+  .upper h2 {
+    font-size: 52px;
+    line-height: 78px;
+    max-width: 786px;
+  }
+  .reviews {
+    padding-block: 100px;
+  }
+  .reviews h2 {
+    margin: 0 auto 80px;
+    font-size: 42px;
+    line-height: 57px;
+    max-width: 515px;
+  }
+  .review-slider {
+    max-width: 500px;
+  }
+  .review-card {
+    padding: 38px 22px;
+    max-width: 350px;
+  }
+  .review-card .person-data {
+    margin-bottom: 20px;
+  }
+  .person-info h3 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .person-info span {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .review-card p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .prev-btn {
+    left: -70px;
+  }
+  .next-btn {
+    right: -70px;
+  }
+  .how-it-works h2 {
+    margin-bottom: 80px;
+    font-size: 42px;
+    line-height: 48px;
+  }
+  .working-step {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  }
+  .working-step .working-image {
+    max-width: 400px;
+  }
+  .working-content {
+    display: flex;
+    gap: 10px;
+  }
+  .steps h3 {
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 14px;
+  }
+  .steps p {
+    font-size: 14px;
+    margin-bottom: 14px;
+    line-height: 20px;
+  }
+  .check {
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+    margin-bottom: 12px;
+  }
+  .check .check-icon {
+    font-size: 16px;
+  }
+  .check .check-para {
+    font-size: 12px;
+  }
+  .level-up {
+    padding-block: 140px 190px;
+  }
+  .level-up h2 {
+    font-size: 42px;
+    line-height: 48px;
+  }
+  .level-steps {
+    gap: 50px;
+  }
+  footer {
+    padding-block: 110px 75px;
+  }
+  footer .container {
+    padding-inline: 30px;
+  }
+}
+
+/* ------------------------------------------------------------------------------------------------------- */
+@media screen and (max-width: 767px) {
+  .banner {
+    padding-block: 160px 100px;
+  }
+  .banner-text h1 {
+    font-size: 44px;
+    line-height: 50px;
+    max-width: 451px;
+  }
+  .banner-text p {
+    font-size: 14px;
+    line-height: 20px;
+    max-width: 584px;
+  }
+  .banner-btns a:nth-child(1),
+  .banner-btns a:nth-child(2) {
+    padding: 14px 24px;
+  }
+  .companies {
+    padding-block: 80px 100px;
+  }
+  .companies .companies-list {
+    gap: 30px;
+  }
+  .about-us .about-info {
+    gap: 20px;
+  }
+  .about-us h2 {
+    font-size: 38px;
+    line-height: 44px;
+  }
+  .about-info h3 {
+    font-size: 34px;
+    line-height: 40px;
+    max-width: 312px;
+  }
+  .about-info p {
+    font-size: 14px;
+    line-height: 20px;
+    max-width: 322px;
+  }
+  .about-image {
+    padding-block: 130px;
+    max-width: 380px;
+  }
+  .about-image span {
+    font-size: 78px;
+    line-height: 84px;
+  }
+  .play {
+    width: 100px;
+    height: 100px;
+  }
+  .features {
+    padding-block: 110px 90px;
+  }
+  .features h2 {
+    font-size: 38px;
+    margin-bottom: 70px;
+    line-height: 44px;
+  }
+  .feature-card {
+    padding: 28px 22px;
+    gap: 22px;
+    max-width: 340px;
+  }
+  .feature-content p {
+    max-width: 200px;
+  }
+
+  .sign-up {
+    padding-block: 80px 60px;
+    gap: 250px;
+  }
+  .upper h2 {
+    font-size: 44px;
+    line-height: 70px;
+    max-width: 668px;
+  }
+  .reviews {
+    padding-block: 90px;
+  }
+  .reviews h2 {
+    margin: 0 auto 70px;
+    font-size: 38px;
+    line-height: 53px;
+    max-width: 466px;
+  }
+  .review-slider {
+    max-width: 450px;
+  }
+  .prev-btn {
+    left: -90px;
+  }
+  .next-btn {
+    right: -90px;
+  }
+  .how-it-works h2 {
+    margin-bottom: 70px;
+    font-size: 38px;
+    line-height: 44px;
+  }
+  .working-step {
+    gap: 28px;
+  }
+  .working-content {
+    gap: 16px;
+  }
+  .working-content .number {
+    gap: 16px;
+  }
+  .number span {
+    width: 20px;
+    height: 20px;
+  }
+  .number .vertical-line {
+    border: 1px dotted #b4b4b4;
+  }
+  .working-step .working-image {
+    max-width: 300px;
+  }
+  .steps h3 {
+    margin-bottom: 14px;
+  }
+  .steps p {
+    font-size: 12px;
+    margin-bottom: 20px;
+    line-height: 20px;
+    max-width: 380px;
+  }
+  .check {
+    margin-bottom: 12px;
+  }
+  .check .check-icon {
+    font-size: 18px;
+  }
+  .check .check-para {
+    font-size: 12px;
+    max-width: 400px;
+  }
+  .level-up {
+    padding-block: 110px 140px;
+  }
+  .level-up h2 {
+    font-size: 38px;
+    line-height: 44px;
+    margin-bottom: 16px;
+  }
+  .level-steps {
+    gap: 40px;
+  }
+  footer {
+    padding-block: 90px 55px;
+  }
+  footer .container {
+    padding-inline: 40px;
+  }
+}
+
+/* ---------------------------------------------------------------------------- */
+@media screen and (max-width: 640px) {
+  .banner {
+    padding-block: 130px 70px;
+  }
+  .banner-text h1 {
+    font-size: 38px;
+    line-height: 44px;
+    margin: 0 auto 20px;
+    max-width: 390px;
+  }
+  .banner-text p {
+    max-width: 480px;
+    margin-bottom: 30px;
+  }
+  .banner-btns a:nth-child(1),
+  .banner-btns a:nth-child(2) {
+    padding: 12px 30px;
+  }
+  .companies {
+    padding-block: 60px 80px;
+  }
+  .companies .companies-list {
+    gap: 30px;
+  }
+  .company-image {
+    max-width: 100px;
+  }
+  .about-info {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .about-us h2 {
+    font-size: 34px;
+    line-height: 40px;
+    margin-bottom: 50px;
+  }
+  .about-info h3 {
+    font-size: 28px;
+    line-height: 34px;
+    text-align: center;
+    max-width: 340px;
+  }
+  .about-info p {
+    max-width: 367px;
+    text-align: center;
+  }
+  .about-btn {
+    width: 100%;
+    text-align: center;
+  }
+  .about-image {
+    width: 100%;
+    padding-block: 120px;
+  }
+  .about-image span {
+    font-size: 66px;
+    line-height: 72px;
+  }
+  .play {
+    width: 80px;
+    height: 80px;
+  }
+  .play .fa-play {
+    font-size: 30px;
+  }
+
+  .features {
+    padding-block: 80px 60px;
+  }
+  .features h2 {
+    font-size: 34px;
+    margin-bottom: 50px;
+    line-height: 40px;
+  }
+  .sign-up {
+    padding-block: 60px 40px;
+    gap: 160px;
+  }
+  .upper h2 {
+    font-size: 30px;
+    line-height: 56px;
+    max-width: 459px;
+  }
+  .lower h3 {
+    font-size: 18px;
+    margin-bottom: 24px;
+  }
+  .sign-up-way {
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .btn-google {
+    gap: 8px;
+    font-size: 12px;
+    line-height: 18px;
+    padding: 12px 16px;
+  }
+  .btn-email {
+    font-size: 12px;
+    line-height: 18px;
+    padding: 12px 30px;
+  }
+  .reviews {
+    padding-block: 60px;
+  }
+  .reviews h2 {
+    font-size: 34px;
+    line-height: 44px;
+    max-width: 425px;
+  }
+  .review-slider {
+    max-width: 360px;
+  }
+  .review-card {
+    padding: 24px 16px;
+    max-width: 300px;
+    width: 100%;
+  }
+  .review-card .person-data {
+    margin-bottom: 16px;
+  }
+  .person-info h3 {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .review-card p {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .prev-btn {
+    top: 180px;
+    left: 50px;
+  }
+  .next-btn {
+    top: 180px;
+    right: 50px;
+  }
+  .how-it-works h2 {
+    margin-bottom: 50px;
+    font-size: 34px;
+    line-height: 40px;
+  }
+  .working-step {
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  .working-step .working-image {
+    max-width: 400px;
+  }
+  .steps p {
+    max-width: 362px;
+  }
+  .check .check-para {
+    max-width: 320px;
+  }
+  .level-up {
+    padding-block: 80px 100px;
+  }
+  .level-up h2 {
+    font-size: 34px;
+    line-height: 40px;
+  }
+  .level-up .free {
+    margin-bottom: 40px;
+    padding: 12px 20px;
+  }
+  .level-steps {
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  footer {
+    padding-block: 60px 40px;
+  }
+  footer .container {
+    padding-inline: 20px;
+  }
+  .footer-top {
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  .footer-bottom {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+}
+
+/* ------------------------------------------------------------------------------------------ */
+@media screen and (max-width: 480px) {
+  .banner {
+    padding-block: 100px 70px;
+  }
+  .banner-text h1 {
+    font-size: 28px;
+    line-height: 34px;
+    max-width: 328px;
+  }
+  .banner-btns a:nth-child(1) {
+    font-size: 12px;
+    line-height: 18px;
+    padding: 10px 24px;
+  }
+  .banner-btns a:nth-child(2) {
+    font-size: 12px;
+    line-height: 18px;
+    padding: 10px 24px;
+  }
+  .about-info p {
+    max-width: 367px;
+  }
+  .about-btn {
+    width: 100%;
+  }
+  .about-image {
+    width: 100%;
+    padding-block: 100px;
+  }
+  .about-image span {
+    font-size: 52px;
+    line-height: 58px;
+  }
+  .feature-card {
+    padding: 24px 18px;
+    gap: 16px;
+  }
+  .sign-up {
+    padding-block: 30px 10px;
+    gap: 80px;
+  }
+  .upper h2 {
+    font-size: 20px;
+    line-height: 46px;
+    max-width: 317px;
+  }
+  .lower h3 {
+    font-size: 14px;
+    margin-bottom: 16px;
+  }
+  .sign-up-way {
+    gap: 4px;
+    margin-bottom: 14px;
+  }
+  .btn-google {
+    gap: 4px;
+    font-size: 10px;
+    line-height: 16px;
+    padding: 4px 6px;
+  }
+  .btn-email {
+    font-size: 10px;
+    line-height: 16px;
+    padding: 4px 22px;
+  }
+  .credit {
+    font-size: 12px;
+  }
+  .working-content {
+    gap: 8px;
+  }
+  .steps h3 {
+    margin-bottom: 14px;
+  }
+  .steps p {
+    margin-bottom: 8px;
+  }
+  .check {
+    margin-bottom: 10px;
+  }
+  .check {
+    align-items: center;
+  }
+  .check .check-icon {
+    font-size: 16px;
+  }
+  .check .check-para {
+    font-size: 12px;
+    max-width: 400px;
+  }
+  .prev-btn {
+    top: 180px;
+    left: 30px;
+  }
+  .next-btn {
+    top: 180px;
+    right: 30px;
+  }
+  .level-steps {
+    justify-content: flex-start;
+  }
+  .left {
+    flex-wrap: wrap;
+  }
+}
