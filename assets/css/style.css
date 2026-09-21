@@ -277,6 +277,7 @@ header.active {
   font-size: 96px;
   font-weight: 700;
   line-height: 102px;
+  font-family: "Biryani", sans-serif;
 }
 .play {
   position: absolute;
@@ -292,7 +293,7 @@ header.active {
   opacity: 0.7;
   border: none;
   transform: translate(-50%, -50%);
-  font-family: "Biryani", sans-serif;
+    
 }
 .play .fa-play {
   color: #fff;
